@@ -72,4 +72,4 @@ Estou sempre disponível para colaborar em novos projetos, freelancing, ou qualq
 [![Gmail Badge](https://img.shields.io/badge/-marcosv.dev@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosv.dev@outlook.com)](mailto:marcosv.dev@outlook.com)
 [![GitHub](https://img.shields.io/github/followers/MarcosSantos-1?label=follow&style=social)](https://github.com/MarcosSantos-1)
 
-✨ "A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
+✨ "My keyboard, my screen, my universe." 🪐
